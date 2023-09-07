@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "fbprophet-test"
+version = "0.1.0"
+description = "Jono's early, rough exerimentation using Facebook Prophet to predict stock trends based on past data"
+authors = ["Jonathan Stucken <jstucken@yahoo.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+prophet = "^1.1.4"
+yfinance = "^0.2.28"
+plotly = "^5.16.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
