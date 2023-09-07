@@ -38,4 +38,5 @@ Upon completion, the script will output an interactive chart you can view in you
 ![Example Graph](images/example.png)
 
 Black dots = actual data from Yahoo Finance
+
 Blue lines = predicted values
