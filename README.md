@@ -2,8 +2,8 @@
 
 Jono's early, rough exerimentation using Facebook Prophet AI to predict stock trends based
 on past data. This might be useful to predict future ex-dividend dates or to backtest to
-see how well predictions would have performed, but I wouldn't rely on it for stock prices!
-Purely for testing, use at your own risk.
+see how well predictions would have performed, but I wouldn't rely on it for accurate stock
+prices! Purely for testing/learning purposes, use at your own risk.
 
 Based on the open source library here:
 
