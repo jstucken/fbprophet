@@ -23,7 +23,7 @@ Then clone this repo to a folder on your local machine:
 
 Change directory into your cloned local repo folder e.g.
 
-    cd C:\fbprophet
+    cd fbprophet
 
 Install the Python dependancies using Poetry:
 
